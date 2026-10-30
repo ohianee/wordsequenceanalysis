@@ -2,6 +2,20 @@
 
 Trabajo de Fin de Grado (Ingeniería Multimedia, Universitat de València). Aplicación web en PHP (arquitectura MVC) para el análisis de secuencias de ADN en formato FASTA/FASTQ y la medición de distancias genéticas entre genomas de distintas especies.
 
+![Demo de Word Sequence Analysis](media/demo.gif)
+
+🎬 [Ver demo completa en vídeo](media/demo.mp4) (90s)
+
+## Capturas
+
+| Página de inicio | Selección de secuencias |
+|---|---|
+| ![Página de inicio](media/screenshots/pagina_inicio.png) | ![Selección de secuencias](media/screenshots/carga_secuencias.png) |
+
+| Resultados (tabla) | Resultados (gráfica de distancias) |
+|---|---|
+| ![Resultados en tabla](media/screenshots/resultados_tabla.png) | ![Gráfica de resultados](media/screenshots/resultados_grafica.jpg) |
+
 ## Funcionalidades
 
 - Carga y gestión de genomas (añadir/eliminar especies, actualización desde fuentes externas).
