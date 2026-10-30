@@ -1,0 +1,15 @@
+# Copias de seguridad de la base de datos (generadas en tiempo de ejecución)
+backup/
+
+# Documentación generada automáticamente (Doxygen)
+docs/
+
+# Configuración de IDE
+.settings/
+.vscode/
+.buildpath
+.project
+
+# Sistema
+.DS_Store
+Thumbs.db
